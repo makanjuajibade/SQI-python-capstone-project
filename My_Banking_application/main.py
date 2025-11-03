@@ -48,10 +48,10 @@ def main():
                     else:
                         print("Invalid option.")
             else:
-                print("\n❌ Invalid username or password.")
+                print("\n Invalid username or password.")
 
         elif choice == "3":
-            print("Thank you for using SQI Bank!")
+            print("Thank you for using KAY Bank!")
             break
         else:
             print("Invalid choice.")
